@@ -1,0 +1,15 @@
+#box {
+    display: flex;
+    background-color: rgb(81, 118, 100, 255);
+    margin: 20px auto;
+    width: 50vh;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+#message {
+    font-family: 'Press Start 2P';
+    color: black;
+    padding: 20px;
+}
